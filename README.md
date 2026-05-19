@@ -1,3 +1,7 @@
+# Readlytics 📚
+
+A Python-powered web scraping and analytics project that extracts and analyzes book data from an online bookstore.
+
 ## Project Screenshots
 
 ### Website
