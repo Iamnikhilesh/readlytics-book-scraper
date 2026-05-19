@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Readlytics 📚
 
 A Python-powered web scraping and analytics project that extracts and analyzes book data from an online bookstore.
